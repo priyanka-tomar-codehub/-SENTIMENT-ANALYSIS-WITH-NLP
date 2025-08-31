@@ -51,3 +51,5 @@ The model achieved a strong accuracy score, demonstrating that Logistic Regressi
 This task highlights how machine learning and NLP techniques can convert raw textual data into actionable insights. By automating sentiment classification, businesses can analyze customer opinions at scale, leading to improved decision-making and customer experience management. Future improvements could include experimenting with more advanced models such as Support Vector Machines (SVM), Random Forests, or even deep learning approaches like Recurrent Neural Networks (RNNs) and Transformers for capturing more complex linguistic patterns.
 
 ##output
+
+<img width="643" height="821" alt="Image" src="https://github.com/user-attachments/assets/8c53969f-049e-47f6-aa17-5d6ae67cfe81" />
